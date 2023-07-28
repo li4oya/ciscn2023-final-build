@@ -1,0 +1,8 @@
+bs4
+scapy
+requests
+paramiko
+pymysql
+PyNaCl
+python-nmap
+redis
