@@ -7,7 +7,7 @@
 ### 文件目录
 
 - src网站源码
-  - ciscn_build_scan_final.py #扫描器元带啊吗
+  - ciscn_build_scan_final.py #扫描器源码
   - ips.txt #扫描网段配置文件
   - ports.txt #预探测端口配置文件
   - requirements.txt 
